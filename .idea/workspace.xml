@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80db63ec-d805-46b7-9ce7-16c029fb1488" name="Changes" comment="sup">
-      <change afterPath="$PROJECT_DIR$/l/Ui.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="80db63ec-d805-46b7-9ce7-16c029fb1488" name="Changes" comment="sup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,8 +40,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\newad\PycharmProjects\gitproject" />
       <recent name="C:\Users\newad\PycharmProjects\gitproject\l" />
+      <recent name="C:\Users\newad\PycharmProjects\gitproject" />
     </key>
   </component>
   <component name="RunManager">
@@ -125,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734102238468</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="sup">
+      <option name="closed" value="true" />
+      <created>1734103822166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734103822166</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
